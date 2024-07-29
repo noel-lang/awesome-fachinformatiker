@@ -38,6 +38,8 @@ Eine kuratierte Liste von Ressourcen für Fachinformatiker in der Ausbildung.
 
 - [Fachinformatiker.de](https://fachinformatiker.de) - Forum für Fachinformatiker
 - [IT-Berufe-Podcast](https://it-berufe-podcast.de/)
+- [SQL lernen mit SQL-Island](https://sql-island.informatik.uni-kl.de)
+
 
 ---
 
