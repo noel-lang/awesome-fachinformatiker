@@ -41,7 +41,7 @@ Eine kuratierte Liste von Ressourcen für Fachinformatiker in der Ausbildung.
 - [IT-Berufe-Podcast](https://it-berufe-podcast.de/)
 - [SQL lernen mit SQL-Island](https://sql-island.informatik.uni-kl.de)
 - [SQL lernen mit W3schools](https://www.w3schools.com/sql/)
-- [Notenrechner](http://caesborn.de/pruefungspage/notenrechner_reformiert.html)
+- [Notenrechner](http://caesborn.de/pruefungspage/notenrechner_reformiert.html) - Hilfreicher Notenrechner für IHK Prüfungsergebnisse
 
 
 ---
