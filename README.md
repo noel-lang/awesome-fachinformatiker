@@ -26,6 +26,7 @@ Eine kuratierte Liste von Ressourcen für Fachinformatiker in der Ausbildung.
 - [Prüfungstermine](https://www.ihk-aka.de/pruefungen) - Nicht für Baden-Württemberg
 - [Prüfungskatalog Fachinformatiker Anwendungsentwicklung](https://www.u-form-shop.de/ihk-pruefungen/pruefungskataloge-abschlusspruefung/fachinformatiker-fachinformatikerin-anwendungsentwicklung-pruefungskatalog-fuer-die-ihk-abschlusspruefung) (kostenpflichtig)
 - [Open Source Fachinformatiker Prüfungsvorbereitung](https://fachinformatikerpruefungsvorbereitung.de/) - Communityprojekt
+- [Lernzettel AP1 2024.pdf](https://github.com/user-attachments/files/16560346/Lernzettel.AP1.2024.pdf) - Unser Discord Community Lernzettel für die Abschlussprüfung Teil 1
 - [U-Form Shop - Abschlussprüfung](https://www.u-form-shop.de/abschlusspruefung/fachinformatiker-fachinformatikerin-1) - Online-Shop für Prüfungsvorbereitungsmaterialien (kostenpflichtig)
 
 ## IHK-Informationen
