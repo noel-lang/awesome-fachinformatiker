@@ -38,12 +38,26 @@ Eine kuratierte Liste von Ressourcen für Fachinformatiker in der Ausbildung.
 
 ## Community und Lernressourcen
 
-- [Fachinformatiker.de](https://fachinformatiker.de) - Forum für Fachinformatiker
-- [IT-Berufe-Podcast](https://it-berufe-podcast.de/)
-- [SQL lernen mit SQL-Island](https://sql-island.informatik.uni-kl.de)
-- [SQL lernen mit W3schools](https://www.w3schools.com/sql/)
-- [Notenrechner](http://caesborn.de/pruefungspage/notenrechner_reformiert.html) - Hilfreicher Notenrechner für IHK Prüfungsergebnisse
+### Kostenlose Bücher
+- [Rheinwerk Openbooks](https://www.rheinwerk-verlag.de/openbook/) - Ausgewählte Bücher des Rheinwerk Verlags kostenlos online lesen
+- [d.punkt Openbooks](https://dpunkt.de/openbooks/) - Ausgewählte Bücher des d.punkt Verlags kostenlos online lesen
 
+### Kostenlose Onlinekurse
+- [SAP Learning](https://learning.sap.com/browse) Kurse rund um das SAP-Ökosystem (auch technische Inhalte)
+- [openHPI](https://open.hpi.de/) Kursplattform des Hasso-Plattner-Instituts
+
+### Interaktive Lernwebseiten
+- [SQL lernen mit SQL-Island](https://sql-island.informatik.uni-kl.de) - Spiel, welches sich durch SQL spielen lässt
+- [SQL lernen mit W3schools](https://www.w3schools.com/sql/) - Kleine Lerneinheiten zum Thema SQL
+
+### Foren und Communities
+- [Fachinformatiker.de](https://fachinformatiker.de) - Forum für Fachinformatiker
+
+### Podcasts
+- [IT-Berufe-Podcast](https://it-berufe-podcast.de/) - Podcast und umfassende Webseite von Stefan Macke
+
+### Hilfreiche Tools
+- [Notenrechner](http://caesborn.de/pruefungspage/notenrechner_reformiert.html) - Notenrechner für IHK Prüfungsergebnisse
 
 ---
 
