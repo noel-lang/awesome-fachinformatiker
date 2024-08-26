@@ -29,6 +29,10 @@ Eine kuratierte Liste von Ressourcen für Fachinformatiker in der Ausbildung.
 - [Lernzettel AP1 2024.pdf](https://github.com/user-attachments/files/16560346/Lernzettel.AP1.2024.pdf) - Unser Discord Community Lernzettel für die Abschlussprüfung Teil 1
 - [U-Form Shop - Abschlussprüfung](https://www.u-form-shop.de/abschlusspruefung/fachinformatiker-fachinformatikerin-1) - Online-Shop für Prüfungsvorbereitungsmaterialien (kostenpflichtig)
 
+## Projektarbeit
+
+- [LaTeX Vorlage für die Projektdokumentation](https://github.com/StefanMacke/latex-vorlage-fiae) - Von Stefan Macke
+
 ## IHK-Informationen
 
 ### IHK Bewertungskriterien (am Beispiel der IHK Karlsruhe)
