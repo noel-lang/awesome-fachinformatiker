@@ -53,6 +53,7 @@ Eine kuratierte Liste von Ressourcen für Fachinformatiker in der Ausbildung.
 ### Interaktive Lernwebseiten
 - [SQL lernen mit SQL-Island](https://sql-island.informatik.uni-kl.de) - Spiel, welches sich durch SQL spielen lässt
 - [SQL lernen mit W3schools](https://www.w3schools.com/sql/) - Kleine Lerneinheiten zum Thema SQL
+- [Linux Upskill Challenge](https://linuxupskillchallenge.org/) - Kleine Aufgaben rund um Linux
 
 ### Foren und Communities
 - [Fachinformatiker.de](https://fachinformatiker.de) - Forum für Fachinformatiker
