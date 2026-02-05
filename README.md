@@ -56,7 +56,7 @@ Eine kuratierte Liste von Ressourcen für Fachinformatiker in der Ausbildung.
 - [Linux Upskill Challenge](https://linuxupskillchallenge.org/) - Kleine Aufgaben rund um Linux
 
 ### Foren und Communities
-- [azubi.communtiy Discord Server](https://azubi.community) - "Ausbildung in der IT" Discord Community Server
+- [azubi.community Discord Server](https://azubi.community) - "Ausbildung in der IT" Discord Community Server
 - [Fachinformatiker.de](https://fachinformatiker.de) - Forum für Fachinformatiker
 
 ### Podcasts
